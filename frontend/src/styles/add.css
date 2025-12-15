@@ -1,0 +1,9 @@
+.add-page { max-width:800px; margin:28px auto; padding:0 16px; }
+.add-card { background:#fff; border-radius:12px; padding:22px; box-shadow:0 6px 20px rgba(2,6,23,0.06); }
+.input { width:100%; padding:10px 12px; border-radius:8px; border:1px solid #e5e7eb; margin:8px 0; }
+.textarea { width:100%; min-height:100px; padding:10px 12px; border-radius:8px; border:1px solid #e5e7eb; margin:8px 0; }
+.muted { color:#6b7280; }
+.btn-primary { background:#10b981; color:white; border:none; padding:10px 14px; border-radius:8px; cursor:pointer; }
+.btn-primary:hover { opacity:0.95; }
+.btn { background:#fff; padding:8px 10px; border-radius:8px; border:1px solid #e5e7eb; cursor:pointer; }
+.btn:hover { background:#f3f4f6; }
